@@ -1,0 +1,21 @@
+body
+{
+    background-color: aqua;
+}
+header
+{
+    color:blue;
+}
+.rounded
+{
+    width: 150px;
+    height: 150px;
+}
+h1
+{
+    background-color: powderblue;
+}
+h2{
+    background-color: powderblue;
+}
+
